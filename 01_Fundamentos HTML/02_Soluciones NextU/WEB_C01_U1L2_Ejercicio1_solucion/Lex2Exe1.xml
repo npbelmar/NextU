@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nomina-empleados>
+	<persona>
+		<nombre>Pablo</nombre>
+		<apellidos>Belmar Cubillos</apellidos>
+		<edad>35</edad>
+		<correo-electronico>npbelmar@uc.cl</correo-electronico>
+	</persona>
+	<persona>
+		<nombre>Rosario</nombre>
+		<apellidos>Mestre Yrarrázaval</apellidos>
+		<edad>35</edad>
+		<correo-electronico>ramestre@uc.cl</correo-electronico>
+	</persona>
+</nomina-empleados>
